@@ -1,2 +1,3 @@
 # CNN_ON_FPGA
-implement convolution neural network on FPGA based on VHDL design
+Implement Convolutional neural networks (CNN)
+
