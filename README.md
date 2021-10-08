@@ -40,9 +40,9 @@ This folder include all files that you can load them in ISE software.
  
 
 
-## Necessarily Info:
+## Necessarily Info
 
- ##### Fixed-Point Table
+ ##### Fixed-Point Table:
  
 |  Name| N.Decimal part |N. Integer part| Signed
 |--|--|--|--
@@ -54,4 +54,18 @@ This folder include all files that you can load them in ISE software.
 | last nodes coeff |6 | 1 |+
 | Final output | 6| 15 |+
 
+ ##### Resources:
+ 
 
+ - Amidi, a., & Amidi, S. (n.d.). Stanford CS230 Course. ([Link](https://stanford.edu/~shervine/l/fa/teaching/cs-230/cheatsheet-convolutional-neural-networks))
+- LeCun, Y., Cortes, C., & Burges, C. (n.d.). MNIST handwritten digit database. ([Link](http://yann.lecun.com/exdb/mnist/))
+- Xilinx Spartan6. (n.d.). ([Link](https://www.xilinx.com/products/silicon-devices/fpga/spartan-%20%20%206.html))
+- Fixed point representation the q format. ([Link](https://www.allaboutcircuits.com/technical-articles/fixed-point-representation-the-q-format-and-addition-examples/))
+- NUMERIC_STD arithmetic package for synthesis. (1994, Nov 23). ([Link](https://www.csee.umbc.edu/portal/help/VHDL/packages/numeric_std.vhd))
+- Pedroni, V. (n.d.). Finite State Machines in Hardware. MIT Press
+- Chu. (n.d.). FPGA PROTOTYPING BY VHDL EXAMPLES . WILEY-INTERSCIENCE
+- Ghaffari, A., & Savaria, Y. (2020). CNN2Gate: An Implementation of Convolutional Neural Networks  
+Inference on FPGAs with Automated Design Space Exploration. MDPI.
+- Xiao, R., Shi, J., & Zhang, C. (2020). FPGA Implementation of CNN for Handwritten Digit  
+Recognition. ITNEC.
+- Bailey, D. (2011). DESIGN FOR EMBEDDED IMAGE PROCESSING. John Wiley & Sons
